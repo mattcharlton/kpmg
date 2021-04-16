@@ -1,4 +1,3 @@
 provider "aws" {
-  region                  = "us-west-2"
-  shared_credentials_file = "/Users/mattcharlton/.aws/credentials"
+  region                  = "eu-west-2"
 }
